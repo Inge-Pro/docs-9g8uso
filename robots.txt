@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-ovd1po.assetshst.online/sitemap.xml
